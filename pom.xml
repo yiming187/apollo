@@ -65,7 +65,7 @@
 		<javax.activation.version>1.1.1</javax.activation.version>
 		<javax.mail.version>1.6.2</javax.mail.version>
 		<javassist.version>3.23.1-GA</javassist.version>
-		<nacos-discovery-api.version>1.4.0</nacos-discovery-api.version>
+		<nacos-discovery-api.version>1.4.2</nacos-discovery-api.version>
 		<!-- Plugins Version -->
 		<maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
 		<maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
